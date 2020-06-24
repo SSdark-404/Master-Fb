@@ -19,10 +19,17 @@ Master-Fb is an accurate facebook account information gathering, all sensitive i
 $ pkg update && upgrade
 $ pkg install git
 $ pkg install python2
-$ git clone https://github.com/SSdark-404/Master-fb
+$ git clone https://github.com/SSdark-404/Master-Fb
 $ cd Master-Fb
 ```
-
+# [ Installation For Linux ]
+```
+$ apt-get upgrade
+$ apt-get update
+$ apt-get install git
+$ apt-get intall python2
+$ git clone https://github.com/SSdark-404/Master-Fb
+```
 # [ Setup ]
 ```
 $ pip2 install -r requirements.txt
