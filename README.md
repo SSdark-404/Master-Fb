@@ -7,19 +7,20 @@
                                            (o o)          
                                        ooO--(_)--Ooo
                                        
-                                          O S I F
+                                       BANDUNGEXPLOIT
                             [open source information facebook]
 ```
-OSIF is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
+Master-Fb is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
 
 
 
 # [ Installation ]
 ```
-$ pkg update upgrade
-$ pkg install git python2
-$ git clone https://github.com/ciku370/OSIF
-$ cd OSIF
+$ pkg update && upgrade
+$ pkg install git
+$ pkg install python2
+$ git clone https://github.com/SSdark-404/Master-fb
+$ cd Master-Fb
 ```
 
 # [ Setup ]
@@ -28,7 +29,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 osif.py
+$ python2 Master-Fb.py
 ```
 # [ Screenshot ]
 <img src=".images/osif.png "/>
